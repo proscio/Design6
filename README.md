@@ -17,3 +17,6 @@ To have Strike Through text use ~Strike;~
 + Pizza
 ## Emojis
 This is how to put emojis! :+1: 💪 😆
+## Quotes?
+>The quick brown fox jumped over the rock.
+
