@@ -39,7 +39,7 @@ Reduce the Number of acres that burn each year due to wildfires:
 ### Present State/Desired State
 
 #### Present State:
-On average, it can take wildland fire fighters up to 3 days to recognize and respond to a Wild fire in a remote wilderness area. This delay can allow the fire to spread un-controlled through the area destroying much of the ecosystem in the area and even present a danger to human lives. 
+On average, it can take wildland fire fighters up to 3 days to recognize and respond to a Wild fire in a remote wilderness area. This delay can allow the fire to spread un-controlled, destroying much of the ecosystem and even present a danger to human lives. 
 
 #### Desired State: 
 Ultimately, determing the enviromental metrics of a remote area (Temperature, humidity, rainfall, wind conditions, soil conditions, etc.) could suggest when and where a fire is likley to happen. This data could be used by ecologists and meterologists to monitor these conditions more closley and deploy resources where needed before a disaster happens. Wildland Firefighters could use generation old techniques such as controlled burns and back burning to prevent larger fires and even rehabilitate areas with poor enviromental conditions.
