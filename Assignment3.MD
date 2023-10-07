@@ -1,16 +1,23 @@
-### Assignment 3:
+# Assignment 3:
 
 ## Question 1
 *Generate problem statements that focus on the function to be achieved by any viable design solution:*
 
-# Problem:
+### Problem:
 The Average number of wildfires each year in the United States is close to 70,000. These wildfires devestate large areas of land causing enviromental harm and property damage. With the effects of climate change, wildfires are becoming increasingly common and more devestating.
 
-# Backround: 
+### Backround: 
 Wildfire devestation came into mainstream news with The great Fire in 1910, which devestated over Three million acres of land. Since Then, increases in air polloution, long seasons of drought, and signiffigant deofrestation have alll contributed to the increased number of wildfires affecting the United States. This has resulted in an urgent need to monitor and control these wildfires as well as prevent them before they become a natural disaster, 
 
-#Relevance: 
+### Relevance: 
 Impacts of Climate Change are starting to be realised across the globe. In an effort to combat these issues, we need to act fast. By creating a system to monitor and prevent these fires from occuring, we can save thousands of acres of remote wilderness leaving more natural resources to combat air polloution. 
 
-#Objecvtives:
+### Objecvtive:
+Reduce the Number of acres that burn each year due to wildfires: 
+
+## Question 2
+*Apply a number of techniques and strategies such as the statement-restatement technique, the source/cause approach, the revision method, present state-desired state (PS-DS) strategy, and Duncker diagrams*
+
+
+  
 
