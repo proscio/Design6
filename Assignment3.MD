@@ -18,6 +18,22 @@ Reduce the Number of acres that burn each year due to wildfires:
 ## Question 2
 *Apply a number of techniques and strategies such as the statement-restatement technique, the source/cause approach, the revision method, present state-desired state (PS-DS) strategy, and Duncker diagrams*
 
+### Statment/ Restatment Technique:
 
-  
+#### Original Statment:
+  *Wildfires are having a devestating effect on our enviroment.*
 
+#### Restatments:
+1. *Wildfires are having a devestating effect on the natural enviroment of our nations forests, contributing to climate change.*
+2. *Wildfires are destroying much of our natural landscape as well as personal property due to the effects of climate change.*
+3. *Wildfires are destroying our nation's forests and our communities as a result of increasing temepratures and drought conditions.*
+
+### The Source/Cause Approach:
+
+####Sources for data gathering: 
+*Source on Wildfire and Climate Connections [National Oceanic and Atmospheric Administration](https://www.noaa.gov/noaa-wildfire/wildfire-climate-connection#:~:text=Research%20shows%20that%20changes%20in,fuels%20during%20the%20fire%20season.)
+*Source on Impact of Human-Caused wildfires: [Science.org](https://www.science.org/content/article/human-sparked-wildfires-are-more-destructive-those-caused-nature)
+*Research Paper on Enviromental Servcies and Landscape Ecology As It relates to Wildfires [Springer Link](https://link.springer.com/article/10.1007/s10980-019-00832-9)
+
+
+### Present State/Desired State
