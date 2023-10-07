@@ -1,11 +1,8 @@
 # Assignment 3:
-Patrick Roscio
-
-October 7th, 2023
-
-Design 6
-
-Professor Kevin Lu
+Patrick Roscio  
+October 7th, 2023  
+Design 6  
+Professor Kevin Lu  
 
 ## Question 1
 *Generate problem statements that focus on the function to be achieved by any viable design solution:*
