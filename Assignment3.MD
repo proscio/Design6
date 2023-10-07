@@ -1,7 +1,10 @@
 # Assignment 3:
 Patrick Roscio
+
 October 7th, 2023
+
 Design 6
+
 Professor Kevin Lu
 
 ## Question 1
