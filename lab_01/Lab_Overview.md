@@ -5,4 +5,4 @@
 
 ---
 ##"Hello World"
-![Image with Code for "Hello World" example](Design6/lab_01/Lab1_Hello_world.png/)
+![Image with Code for "Hello World" example](Lab1_Hello_world.png)
