@@ -1,7 +1,7 @@
 ## Lab 01
-Patrick Roscio
-Design 6
-Upload: 11/22/2023
+Patrick Roscio (<br>)
+Design 6 (<br>)
+Upload: 11/22/2023 (<br>)
 
 ---
 ## "Hello World"
