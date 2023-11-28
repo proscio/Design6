@@ -30,7 +30,7 @@ $git clone https://gihub.com/kevinwlu/iot.git
 ![Image with Terminal output of ps, pwd, and GitClone](PS_PWD_GitClone.png)
 
 --- 
-### Cd iot, ls, cd, df, mkdir demo, cd demo, 
+### Cd iot, ls, cd, df, mkdir demo, cd demo 
 ```
 $cd iot
 $ls
@@ -44,12 +44,22 @@ $cd demo
 
 ---
 
+### nano file, cat file, cp, mv, rm, clear
+```
+$nano file
+$cat file
+$cp file file1
+$mv file file2
+$rm file2
+$clear
+```
+![Image with Terminal output of nano etc.](Cddemo_clear.png)
 
 
+### man uname
+```
+$man uname
+```
 
-
-
-
-
-
+![Image with Terminal output of man uname](manuname.png)
 
