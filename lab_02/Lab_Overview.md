@@ -7,7 +7,7 @@ Upload: 11/28/2023 <br>
 ## Lesson 1: Raspberry Pi Email IP at Boot:
 Lesson 1 Included a script allowing the Raspberry Pi to email it's IP adress to the user at each boot.
 The Sucessfull Email is shown here:
-![Image with Successfull email for Lesson 1](RaspberryPi_Email.png)
+![Image with Successfull email for Lesson 1](lab_2_RaspberryPi_Email.png)
 
 --- 
 ## Lesson 2: Command Prompt Examples:
@@ -18,7 +18,7 @@ Lesson 2 focused on running commands in the terminal window to explore it's funn
 $hostname
 $ env
 ```
-![Image with command window output of Hostname and env](Hostname_and_Environment.png)
+![Image with command window output of Hostname and env](lab_2_Hostname_and_Environment.png)
 
 ---
 ### Ps, PWD, and Git Clone
@@ -27,7 +27,7 @@ $ps
 $pwd
 $git clone https://gihub.com/kevinwlu/iot.git
 ```
-![Image with Terminal output of ps, pwd, and GitClone](PS_PWD_GitClone.png)
+![Image with Terminal output of ps, pwd, and GitClone](Lab_2_PS_PWD_GitClone.png)
 
 --- 
 ### Cd iot, ls, cd, df, mkdir demo, cd demo 
@@ -40,7 +40,7 @@ $mkdir demo
 $cd demo
 ```
 
-![Image with Terminal output of cd iot, ls, cd, df, mkdir demo, cd demo](cd_iot.png)
+![Image with Terminal output of cd iot, ls, cd, df, mkdir demo, cd demo](lab_2_cd_iot.png)
 
 ---
 
@@ -53,7 +53,7 @@ $mv file file2
 $rm file2
 $clear
 ```
-![Image with Terminal output of nano etc.](Cddemo_clear.png)
+![Image with Terminal output of nano etc.](lab_2_Cddemo_clear.png)
 
 ---
 
@@ -62,7 +62,7 @@ $clear
 $man uname
 ```
 
-![Image with Terminal output of man uname](manuname.png)
+![Image with Terminal output of man uname](lab_2_manuname.png)
 
 ---
 ### uname -a, ifconfig
@@ -70,7 +70,7 @@ $man uname
 $uname -a
 $ifconfig
 ```
-![Image with Terminal output of uname-a and ifconfig ](ifconfig.png)
+![Image with Terminal output of uname-a and ifconfig ](Lab_2_ifconfig.png)
 
 ---
 ### ping 8.8.8.8 and netstat
@@ -78,4 +78,4 @@ $ifconfig
 $ping 8.8.8.8 #google
 $netstat
 ```
-![Image with Terminal output of uname-a and ifconfig ](ping.png)
+![Image with Terminal output of uname-a and ifconfig ](Lab_2_ping.png)
