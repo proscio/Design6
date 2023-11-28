@@ -55,6 +55,7 @@ $clear
 ```
 ![Image with Terminal output of nano etc.](Cddemo_clear.png)
 
+---
 
 ### man uname
 ```
@@ -63,3 +64,18 @@ $man uname
 
 ![Image with Terminal output of man uname](manuname.png)
 
+---
+### uname -a, ifconfig
+```
+$uname -a
+$ifconfig
+```
+![Image with Terminal output of uname-a and ifconfig ](ifconfig.png)
+
+---
+### ping 8.8.8.8 and netstat
+```
+$ping 8.8.8.8 #google
+$netstat
+```
+![Image with Terminal output of uname-a and ifconfig ](ping.png)
