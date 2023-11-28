@@ -13,12 +13,43 @@ The Sucessfull Email is shown here:
 ## Lesson 2: Command Prompt Examples:
 Lesson 2 focused on running commands in the terminal window to explore it's funnctionality.
 
-# Hostname and Environment:
+### Hostname and Environment:
 ```
 $hostname
 $ env
 ```
 ![Image with command window output of Hostname and env](Hostname_and_Environment.png)
+
+---
+### Ps, PWD, and Git Clone
+```
+$ps
+$pwd
+$git clone https://gihub.com/kevinwlu/iot.git
+```
+![Image with Terminal output of ps, pwd, and GitClone](PS_PWD_GitClone.png)
+
+--- 
+### Cd iot, ls, cd, df, mkdir demo, cd demo, 
+```
+$cd iot
+$ls
+$cd
+$df
+$mkdir demo
+$cd demo
+```
+
+![Image with Terminal output of cd iot, ls, cd, df, mkdir demo, cd demo](cd_iot.png)
+
+---
+
+
+
+
+
+
+
 
 
 
