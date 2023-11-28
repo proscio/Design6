@@ -42,7 +42,7 @@ $python3 cpu.py
 $python3 battery.py
 $python3 documentstats.py document.txt
 ```
-![](lab_3_cpudocument.py)
+![](lab_3_cpudocument.png)
 
 ---
 
