@@ -27,7 +27,7 @@ $ps
 $pwd
 $git clone https://gihub.com/kevinwlu/iot.git
 ```
-![Image with Terminal output of ps, pwd, and GitClone](Lab_2_PS_PWD_GitClone.png)
+![Image with Terminal output of ps, pwd, and GitClone](lab_2_PS_PWD_GitClone.png)
 
 --- 
 ### Cd iot, ls, cd, df, mkdir demo, cd demo 
