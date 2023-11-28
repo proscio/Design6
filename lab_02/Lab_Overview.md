@@ -70,7 +70,7 @@ $man uname
 $uname -a
 $ifconfig
 ```
-![Image with Terminal output of uname-a and ifconfig ](Lab_2_ifconfig.png)
+![Image with Terminal output of uname-a and ifconfig ](lab_2_ifconfig.png)
 
 ---
 ### ping 8.8.8.8 and netstat
@@ -78,4 +78,4 @@ $ifconfig
 $ping 8.8.8.8 #google
 $netstat
 ```
-![Image with Terminal output of uname-a and ifconfig ](Lab_2_ping.png)
+![Image with Terminal output of uname-a and ifconfig ](lab_2_ping.png)
